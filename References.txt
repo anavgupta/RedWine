@@ -1,0 +1,6 @@
+Udacity
+Google
+StackoverFlow
+r-bloggers.com
+r-documentation
+ggplot2 Documentation
